@@ -1,7 +1,7 @@
 # MedicalAppointment
 Project for my database systems course back in 2020, made in collaboration with my teammates Phumin and Sarika
 
-I was responsible for the doctors portion.
+I was responsible for the doctors portion. (Phumin-patient, Sarika-admin.)
 
 ## Tech Used
 php, Mysql, html, css, bootstrap
